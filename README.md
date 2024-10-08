@@ -9,6 +9,15 @@ Hashtags denotes a heading, the number of hashtags determines the size of the he
 ---
 3 dashes gives your heading an underline
 
+[Project Overview].(#project-overview)
+Data Sources
+Tools used
+Data Cleaning and Preparations
+Exploratory Data Analysis
+Data Analysis
+How to upload or attach a document or visuals
+Data Visualization
+
 ### Project Overview
 ### Data Sources
 ### Tools used
@@ -55,5 +64,17 @@ Click on repository name, it takes you back to the home page, click on the + sig
 Put in your images here, go to your folder, click and drag and drop.
 ![Screenshot 2024-09-02 114717](https://github.com/user-attachments/assets/a29f7caf-7d48-401b-a9a5-57b71c1fa392)
 
-### RECOMMENDATIONS
 
+If you want to be artistic with your work, press the full colon : and try to type what you want, and this will give you a list of emogis you can add to your work 
+🥇
+
+You can also create a table by yourself, using the pipe symbols | as seen below, the dashes closes the heading columns
+
+| Heading 1 | Heading 2 | Heading 3|
+|-----------|-----------|----------|
+| Table 1   | Table 2   | Table 3  |
+
+You can create an outline of headings and put it immediately after the project title, this will help you when working so as not to keep scrolling down a very long page of work done. See outline up this page.
+To do the outines, use square brackets, copy and paste your headings exactly the way it is typed on your document, insert a fullstop at the end of the square bracket, then open a parentesis, insert #, write the headings in small caps, use hyphen - to create space in the headinds and then close the parentesis. 
+
+### RECOMMENDATIONS
