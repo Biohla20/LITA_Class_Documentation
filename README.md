@@ -52,6 +52,7 @@ There are various syntaxes that can be used in Github, for instance;
 Click on repository name, it takes you back to the home page, click on the + sign beside Go to file tab, click upload file and follow other instructions.
 
 ### Data Visualization
+Put in your images here, go to your folder, click and drag and drop.
 
 
 ### RECOMMENDATIONS
