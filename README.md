@@ -53,7 +53,7 @@ Click on repository name, it takes you back to the home page, click on the + sig
 
 ### Data Visualization
 Put in your images here, go to your folder, click and drag and drop.
-
+![Screenshot 2024-09-02 114717](https://github.com/user-attachments/assets/a29f7caf-7d48-401b-a9a5-57b71c1fa392)
 
 ### RECOMMENDATIONS
 
