@@ -85,6 +85,7 @@ You can also create a table by yourself, using the pipe symbols | as seen below,
 | Table 1   | Table 2   | Table 3  |
 
 You can create an outline of headings and put it immediately after the project title, this will help you when working so as not to keep scrolling down a very long page of work done. See outline up this page.
-To do the outines, use square brackets, copy and paste your headings exactly the way it is typed on your document, then open a parentesis, insert #, write the headings in small caps, use hyphen - to create space in the headinds and then close the parentesis. 
+
+To do the outlines, open a square bracket, copy and paste your headings exactly the way it is typed on your document and close the square bracket, then open a parentesis, insert #, write the headings in small caps, use hyphen - to create space in the headings and then close the parentesis. 
 
 ### RECOMMENDATIONS
