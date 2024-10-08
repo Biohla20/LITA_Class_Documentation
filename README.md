@@ -6,6 +6,9 @@ First Project learning Data Analysis with the Incubator Hub
 Hashtags denotes a heading, the number of hashtags determines the size of the heading
 
 ## Project Title: 
+---
+3 dashes gives your heading an underline
+
 ### Project Overview
 ### Data Sources
 ### Tools used
@@ -23,3 +26,23 @@ In the initial phase of data cleaning and preparations, we perform the following
 1. Data loading and inspection
 2. Handling missing variables
 3. Data cleaning and formating
+
+### Exploratory Data Analysis
+EDA involves the exploration of data to answer some questions about the data such as;
+- What is the overall sales trend?
+- Which product are top sellers?
+- What are the products on peak sales?
+
+### Data Analysis
+This is where we include some basic lines of code or queries, or even some of the DAX expressions used during analysis. 
+
+To write a code, we must start and end with 3 dots as seen below
+
+...SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+...
+
+
+- What are the products on peak sales?
+
