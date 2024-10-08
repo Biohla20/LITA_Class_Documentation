@@ -9,14 +9,21 @@ Hashtags denotes a heading, the number of hashtags determines the size of the he
 ---
 3 dashes gives your heading an underline
 
-- [Project Overview](#project-overview)
-- [Data Sources](data-sources)
-- [Tools used](tools-used)
-- [Data Cleaning and Preparations](data-cleaning-and-preparations)
-- [Exploratory Data Analysis](exploratory-data-analysis)
-- [Data Analysis](data-analysis)
-- [How to upload or attach a document or visuals](how-to-upload-or-attach-a-document-or-visuals)
-- [Data Visualization](data-visualization)
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[How to upload or attach a document or visuals](#how-to-upload-or-attach-a-document-or-visuals)
+
+[Data Visualization](#data-visualization)
 
 ### Project Overview
 Insert anything
