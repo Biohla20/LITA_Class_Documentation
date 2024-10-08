@@ -49,6 +49,10 @@ There are various syntaxes that can be used in Github, for instance;
 
 
 ### How to upload or attach a document or visuals
+Click on repository name, it takes you back to the home page, click on the + sign beside Go to file tab, click upload file and follow other instructions.
+
+### Data Visualization
+
 
 ### RECOMMENDATIONS
 
