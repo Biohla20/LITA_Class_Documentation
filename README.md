@@ -38,11 +38,17 @@ This is where we include some basic lines of code or queries, or even some of th
 
 To write a code, we must start and end with 3 dots as seen below
 
-...SQL
+... SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ...
 
+There are various syntaxes that can be used in Github, for instance;
+2 stars in front, your character in between and two stars at the end is BOLD syntax
+1 start, your character and one star at the end is the ITALICS syntax
 
-- What are the products on peak sales?
+
+### How to upload or attach a document or visuals
+
+### RECOMMENDATIONS
 
