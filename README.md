@@ -64,8 +64,8 @@ WHERE CONDITION = TRUE
 ...
 
 There are various syntaxes that can be used in Github, for instance;
-2 stars in front, your character in between and two stars at the end is BOLD syntax
-1 start, your character and one star at the end is the ITALICS syntax
+2 stars in front, your character in between and two stars at the end is BOLD syntax,
+1 star in front, your character and one star at the end is the ITALICS syntax
 
 
 ### How to upload or attach a document or visuals
