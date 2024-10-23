@@ -75,7 +75,7 @@ Click on repository name, it takes you back to the home page, click on the + sig
 Put in your images here, go to your folder, click and drag and drop.
 ![Screenshot 2024-09-02 114717](https://github.com/user-attachments/assets/a29f7caf-7d48-401b-a9a5-57b71c1fa392)
 
-If you want to be artistic with your work, press the full colon : and try to type what you want, and this will give you a list of emogis you can add to your work 
+If you want to be artistic with your work, press the full colon : and try to type what you want, and this will give you a list of emojis you can add to your work 
 🥇
 
 You can also create a table by yourself, using the pipe symbols | as seen below, the dashes closes the heading columns
