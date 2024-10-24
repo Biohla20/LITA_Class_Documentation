@@ -93,19 +93,25 @@ To do the outlines, open a square bracket, copy and paste your headings exactly 
 
 ### RECOMMENDATIONS
 
-### DATA ANALYSIS - LITA - THE INCUBATOR HUB
+# DATA ANALYSIS - LITA - THE INCUBATOR HUB
 ## Project Title: Data Analysis course run summary
-# Introduction
+### Introduction
 A message popped up on a RCCG youths' WhatsApp group and it was a free training for ladies seeking knowledge in tech. I did not hesistate to jump on the wagon. I filled the application and the rest is story. Thanks for the initiative brought about by Pastor Folu'Adeboye in conjuction with The Incubator Hub and Ladies In Tech Africa (LITA).
 ![Welcome Message](https://github.com/user-attachments/assets/c219e159-3587-4cda-8d4c-e372592f257f)
 
-# Microsoft Excel
+### Microsoft Excel
 Before the data analysis course began, I could do basic data entry using Excel and that is about it. Thanks to the detailed instructor in person of Hameed Muhsin (ID), he made learning Excel come easy. Below are some of the highlights from the three weeks of intensive teachings, including class notes and class work. 
 
-The most important of the highlights for me is his quote by Brian Herbert, which says, "the capacity to learn is a gift, the ability to learn is a skill, and the willingness to learn is a choice.". I am glad that I made the choice to learn.
+The most important of the highlights for me is his quote by Brian Herbert, which says, **"the capacity to learn is a gift, the ability to learn is a skill, and the willingness to learn is a choice."** I am glad that I made the choice to learn.
 
+#### Day 1
 ![Basics of Data Analysis - 19 Aug 2024 - Muhsin Hameed](https://github.com/user-attachments/assets/78b5b959-2b07-4baa-b3fc-ec678a6f209e)
 
-# Structured Query Language (SQL)
-# Power BI (Business Intelligence)
+#### Day 2
+![Excel Interface and Navigation (Transitioning to working as a data analyst) - 20 Aug 2024 - Femi Ayodele](https://github.com/user-attachments/assets/5abe108b-5cef-4062-bf11-bd84e9e46198)
+
+![Tips for Success in Data analysis](https://github.com/user-attachments/assets/4fe325f7-6092-4e9a-8e9e-c1ac38796b6c)
+
+### Structured Query Language (SQL)
+### Power BI (Business Intelligence)
 
