@@ -104,13 +104,15 @@ Before the data analysis course began, I could do basic data entry using Excel a
 
 The most important of the highlights for me is his quote by Brian Herbert, which says, **"the capacity to learn is a gift, the ability to learn is a skill, and the willingness to learn is a choice."** I am glad that I made the choice to learn.
 
-#### Day 1
+#### Day 1 - Week 1
 ![Basics of Data Analysis - 19 Aug 2024 - Muhsin Hameed](https://github.com/user-attachments/assets/78b5b959-2b07-4baa-b3fc-ec678a6f209e)
 
 #### Day 2
-![Excel Interface and Navigation (Transitioning to working as a data analyst) - 20 Aug 2024 - Femi Ayodele](https://github.com/user-attachments/assets/5abe108b-5cef-4062-bf11-bd84e9e46198)
-
 ![Tips for Success in Data analysis](https://github.com/user-attachments/assets/4fe325f7-6092-4e9a-8e9e-c1ac38796b6c)
+
+#### Day ? - Week 2
+
+#### Day ? Week 3
 
 ### Structured Query Language (SQL)
 ### Power BI (Business Intelligence)
