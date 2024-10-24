@@ -1,5 +1,8 @@
 # LITA_Class_Documentation
 First Project learning Data Analysis with the Incubator Hub
+- Taken by Temidayo Ayeni. using Github as an interface for creating a portfolio.
+- Note: The below is the note taken during the Github setup class.
+- The portfolio of work done during the LITA Data Analysis course is down the page. To skip to this, Click --- here. 
 ## LITA_Class_Documentation
 ### LITA_Class_Documentation
 #### LITA_Class_Documentation
@@ -89,3 +92,20 @@ You can create an outline of headings and put it immediately after the project t
 To do the outlines, open a square bracket, copy and paste your headings exactly the way it is typed on your document and close the square bracket, then open a parentesis, insert #, write the headings in small caps, use hyphen - to create space in the headings and then close the parentesis. 
 
 ### RECOMMENDATIONS
+
+### DATA ANALYSIS - LITA - THE INCUBATOR HUB
+## Project Title: Data Analysis course run summary
+# Introduction
+A message popped up on a RCCG youths' WhatsApp group and it was a free training for ladies seeking knowledge in tech. I did not hesistate to jump on the wagon. I filled the application and the rest is story. Thanks for the initiative brought about by Pastor Folu'Adeboye in conjuction with The Incubator Hub and Ladies In Tech Africa (LITA).
+![Welcome Message](https://github.com/user-attachments/assets/c219e159-3587-4cda-8d4c-e372592f257f)
+
+# Microsoft Excel
+Before the data analysis course began, I could do basic data entry using Excel and that is about it. Thanks to the detailed instructor in person of Hameed Muhsin (ID), he made learning Excel come easy. Below are some of the highlights from the three weeks of intensive teachings, including class notes and class work. 
+
+The most important of the highlights for me is his quote by Brian Herbert, which says, "the capacity to learn is a gift, the ability to learn is a skill, and the willingness to learn is a choice.". I am glad that I made the choice to learn.
+
+![Basics of Data Analysis - 19 Aug 2024 - Muhsin Hameed](https://github.com/user-attachments/assets/78b5b959-2b07-4baa-b3fc-ec678a6f209e)
+
+# Structured Query Language (SQL)
+# Power BI (Business Intelligence)
+
