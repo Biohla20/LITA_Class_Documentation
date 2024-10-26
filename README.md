@@ -372,4 +372,16 @@ select min(salary) as min_salary from Salary
 ### Power BI (Business Intelligence)
 [PowerBI Classwork.pdf](https://github.com/user-attachments/files/17532222/PowerBI.Classwork.pdf)
 
+![First dashboard](https://github.com/user-attachments/assets/62eb1593-4a5a-4a7f-b4b4-b19a9ea32bc9)
+
+![Region by Revenue](https://github.com/user-attachments/assets/c9175db3-4818-470c-b901-c1198a581066)
+
+![Matrix_Table_difference](https://github.com/user-attachments/assets/9ee678fb-4833-42f0-8a64-6df8277f5eb2)
+
+![Map visual](https://github.com/user-attachments/assets/60c2f3f0-a616-4e91-8128-846e0ca44e00)
+
+![HR Analytics](https://github.com/user-attachments/assets/ff5aaf80-e899-4df5-987d-ee9054152c92)
+
+![HR Analytics Pg 2](https://github.com/user-attachments/assets/f7490461-a4d9-4899-93c8-e89632ccc644)
+
 
