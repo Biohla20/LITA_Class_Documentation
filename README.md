@@ -132,49 +132,27 @@ During the three weeks when the SQL guru, Femi Ayodele took us, we learnt how to
 
 Some of the queries written and used during this session are seen below, starting with creating a database.
 
-create database LITA_DB
+...create database LITA_DB... *This creates a database in the SQL server management studio, and create table below creates a table in the databse created*
 
-CREATE TABLE Employee (
-
+...CREATE TABLE Employee (
 staffid varchar (10) not null,
-
 FirstName varchar (255) NOT NULL,
-
 SecondName varchar (255),
-
 Gender varchar (10),
-
 Date_of_Birth date,
-
 HireDate datetime,
-
 primary key (staffid)
+)...
 
-)
+...select * from Employee... *This selects all and displays the content of the employee table created*
 
-select * from Employee
+...insert into Employee (staffid, firstname, secondname, gender,Date_of_Birth, hiredate)... *This helps to insert parameters/values into the created table as appropriate*
+...values ( 'parameters' as above)...
 
-insert into Employee (staffid, firstname, secondname, gender,Date_of_Birth, hiredate)
-values ( 'AB401', 'ayan', 'olakun', 'female', '1992-08-22', '2018-02-09'),
-( 'AB212', 'okorie', 'mercy', 'female','1988-10-09', '2018-10-09'),
-( 'AB223', 'joshua', 'chukwuemeka', 'male','1980-10-09', '2022-02-09'),
-( 'AB234', 'sanni', 'ibrahim', 'male','1958-10-09', '2019-09-23'),
-( 'AB254', 'mercy', 'olanipekun', 'female','1982-10-09', '2020-02-09'),
-( 'AB249', 'johnson', 'mercy', 'female','1982-10-09', '2019-12-09'),
-( 'AB298', 'ayomide', 'halleluyah', 'female', '1982-10-09','2018-07-11'),
-( 'AB260', 'deborah', 'justin', 'female','1982-10-09', '2018-02-09'),
-( 'AB281', 'wale', 'olanipekun', 'male','1982-10-09', '2018-02-09')
+...drop table employee... *Used for deletion of a whole table in SQL*
 
--------to drop table --------
-
-drop table employee
-
-----delete sql command--
-
-delete from employee
-where staffid  = 'ab281'
-
------truncate sql command
+---delete from employee... *Used to alter a parameter/delete only an item or few from a table in SQL*
+...where staffid  = 'parameter'...
 
 truncate table employee
 
@@ -392,4 +370,5 @@ select min(salary) as min_salary from Salary
 
 
 ### Power BI (Business Intelligence)
+
 
