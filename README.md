@@ -2,7 +2,7 @@
 First Project learning Data Analysis with the Incubator Hub
 - Taken by Temidayo Ayeni. using Github as an interface for creating a portfolio.
 - Note: The below is the note taken during the Github setup class.
-- The portfolio of work done during the LITA Data Analysis course is down the page. To skip to this, Click --- here. 
+- The portfolio of work done during the LITA Data Analysis course is down the page. Skip to [DATA ANALYSIS - LITA - THE INCUBATOR HUB](#data-analysis-lita-the-incubator-hub)
 ## LITA_Class_Documentation
 ### LITA_Class_Documentation
 #### LITA_Class_Documentation
@@ -94,7 +94,7 @@ To do the outlines, open a square bracket, copy and paste your headings exactly 
 ### RECOMMENDATIONS
 
 # DATA ANALYSIS - LITA - THE INCUBATOR HUB
-## Project Title: Data Analysis course run summary
+## Project Title: Data Analysis course summary
 ### Introduction
 A message popped up on a RCCG youths' WhatsApp group and it was a free training for ladies seeking knowledge in tech. I did not hesistate to jump on the wagon. I filled the application and the rest is story. Thanks for the initiative brought about by Pastor Folu'Adeboye in conjuction with The Incubator Hub and Ladies In Tech Africa (LITA).
 ![Welcome Message](https://github.com/user-attachments/assets/c219e159-3587-4cda-8d4c-e372592f257f)
