@@ -370,5 +370,6 @@ select min(salary) as min_salary from Salary
 
 
 ### Power BI (Business Intelligence)
+[PowerBI Classwork.pdf](https://github.com/user-attachments/files/17532222/PowerBI.Classwork.pdf)
 
 
