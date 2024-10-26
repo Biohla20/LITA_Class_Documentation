@@ -2,7 +2,8 @@
 First Project learning Data Analysis with the Incubator Hub
 - Taken by Temidayo Ayeni. using Github as an interface for creating a portfolio.
 - Note: The below is the note taken during the Github setup class.
-- The portfolio of work done during the LITA Data Analysis course is down the page. Skip to [DATA ANALYSIS - LITA - THE INCUBATOR HUB](#data-analysis-lita-the-incubator-hub)
+- The portfolio of work done during the LITA Data Analysis course is down the page.
+- Skip to [DATA ANALYSIS - LITA - THE INCUBATOR HUB](#data-analysis-lita-the-incubator-hub)
 ## LITA_Class_Documentation
 ### LITA_Class_Documentation
 #### LITA_Class_Documentation
