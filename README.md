@@ -126,6 +126,11 @@ The most important of the highlights for me is his quote by Brian Herbert, which
 ![Basic Excel Function 2](https://github.com/user-attachments/assets/cc3ccad0-e64f-4ba6-b38f-37cdfc46314a)
 
 #### Week 3 (Excel functions 3, Pivot table and chart)
+![PIVOT TABLES](https://github.com/user-attachments/assets/71bde419-77d4-49bd-9c10-20d1de2f8a53)
+
+![PIVOT TABLE 2](https://github.com/user-attachments/assets/6f112dc2-8aa9-448a-8c89-ae902a2ee7e7)
+
+![Pivot table and CHARTS](https://github.com/user-attachments/assets/70e44e6a-f5ed-4450-a1f6-81e0ac278884)
 
 ### Structured Query Language (SQL)
 
@@ -172,11 +177,13 @@ add State_of_Origin varchar (50)...
 
 CASE WHEN syntax is used to input huge amount of data into an existing table when ALTER cannot be used
 
-Other SQL Clauses, Operators Views and Case When were taught in class, but isnt included in this summary.
+Other SQL Clauses, Operators, Views and Case When were taught in class, but details isnt included in this summary.
 
+![SQL WEEK 1](https://github.com/user-attachments/assets/b123ff05-4ecb-494d-8b6e-85114bf2c2a5)
 
+![SQL CLAUSES WEEK 2](https://github.com/user-attachments/assets/5c27e4be-6b47-40e0-bb21-d57ad19cb73a)
 
-
+![SQL VIEWS WEEK 3](https://github.com/user-attachments/assets/c83c7130-0d74-42e7-9b8d-245720cebcde)
 
 ### Power BI (Business Intelligence)
 
