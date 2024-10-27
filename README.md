@@ -1,7 +1,7 @@
 # LITA_Class_Documentation
-First Project learning Data Analysis with the Incubator Hub
-- Taken by Temidayo Ayeni. using Github as an interface for creating a portfolio.
-- Note: The below is the note taken during the Github setup class.
+First Project while learning Data Analysis with the Incubator Hub
+- Github set up was taken by Temidayo Ayeni, we explored using Github as an interface for creating a portfolio.
+- The below is the note taken during the Github setup class.
 - The portfolio of work done during the LITA Data Analysis course is down the page. [DATA ANALYSIS - LITA - THE INCUBATOR HUB](#data-analysis--lita--the-incubator=hub)
 
 ## LITA_Class_Documentation
@@ -63,9 +63,10 @@ This is where we include some basic lines of code or queries, or even some of th
 To write a code, we must start and end with 3 dots as seen below
 
 ... SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
-...
+
+...SELECT * FROM TABLE1
+
+WHERE CONDITION = TRUE...
 
 There are various syntaxes that can be used in Github, for instance;
 2 stars in front, your character in between and two stars at the end is BOLD syntax,
@@ -107,7 +108,7 @@ Before the data analysis course began, I could do basic data entry using Excel a
 
 We started the course learning the basics of data analysis (everything we should know), data entry using Excel sheet and workbook, then moved on to deeper things like Excel functions, and the class wrapped up with pivot tables, charts and presentation of results.
 
-We had two data sets during the Excel class and these were used to carry out various analysis, some of which includes
+We had two data sets during the Excel class and these were used to carry out various analysis, some of which includes numbers and text editing in Excel, and summary of regional sales and revenue of a company.
 
 Below are some of the highlights from the three weeks of intensive teachings, including class notes and class work. 
 
@@ -119,12 +120,12 @@ The most important of the highlights for me is his quote by Brian Herbert, which
 #### Day 2
 ![Tips for Success in Data analysis](https://github.com/user-attachments/assets/4fe325f7-6092-4e9a-8e9e-c1ac38796b6c)
 
-#### Day ? - Week 2 (Excel functions 2, Data clean up)
+#### Week 2 (Excel functions 2, Data clean up)
 ![Basic Excel Function 1](https://github.com/user-attachments/assets/2a789003-b93d-4988-a829-a78bec6927ff)
 
 ![Basic Excel Function 2](https://github.com/user-attachments/assets/cc3ccad0-e64f-4ba6-b38f-37cdfc46314a)
 
-#### Day ? Week 3 (Excel functions 3, Pivot table and chart)
+#### Week 3 (Excel functions 3, Pivot table and chart)
 
 ### Structured Query Language (SQL)
 
@@ -147,229 +148,44 @@ primary key (staffid)
 ...select * from Employee... *This selects all and displays the content of the employee table created*
 
 ...insert into Employee (staffid, firstname, secondname, gender,Date_of_Birth, hiredate)... *This helps to insert parameters/values into the created table as appropriate*
-...values ( 'parameters' as above)...
+...values ('parameters' as above)...
 
 ...drop table employee... *Used for deletion of a whole table in SQL*
 
 ---delete from employee... *Used to alter a parameter/delete only an item or few from a table in SQL*
 ...where staffid  = 'parameter'...
 
-truncate table employee
+...TRUNCATE... *This will delete all rows/content of table and free up space* 
+Example ...TRUNCATE table employee...
 
---------12/09/2024----------------------------
+...IDENTITY... *This helps to auto-increase/generate the primary key, for instance, the identity (1,1) means the primary key starts from 1 and increases by 1*
+*To insert more records into a table, you do not need to specify the column names as long as the new records will follow exactly the same format from the existing records*
 
-------identity in SQL -----
-
-CREATE TABLE PERSON (
-personid int identity (1,1) primary key not null,
-personname varchar (255) not null,
-age int
-)
-insert into PERSON (personname, age)
-values ('saidu', 45),
-('adebanjo', 49),
-('olorunda', 33),
-('martha', 88),
-('sandi', 100),
-('jackson', 22),
-('okunola', 19),
-('esther', 45)
-
-select * from PERSON
-
-------Insert more records into Employee table-------
-
-insert into [dbo].[Employee]
-values ( 'AB200', 'ayomide', 'halleluyah', 'female', '1982-10-09','2018-07-11'),
-( 'AB405', 'deborah', 'justin', 'female','1982-10-09', '2018-02-09'),
-( 'AB282', 'wale', 'olanipekun', 'male','1982-10-09', '2018-02-09'),
-( 'AB278', 'shukurat', 'lasisi', 'female','1982-10-09', '2018-02-09'),
-( 'AB240', 'johnson', 'mercy', 'female','1982-10-09', '2019-12-09'),
-( 'AB299', 'ayomide', 'halleluyah', 'female', '1982-10-09','2018-07-11'),
-( 'AB268', 'deborah', 'justin', 'female','1982-10-09', '2018-02-09'),
-( 'AB286', 'wale', 'olanipekun', 'male','1982-10-09', '2018-02-09'),
-( 'AB270', 'shukurat', 'lasisi', 'female','1982-10-09', '2018-02-09')
-
-select * from [dbo].[Employee]
-
----- to create second table call SALARY TABLE-------
-CREATE TABLE Salary (
-salary_id int identity (1,1)not null,
-Staffid varchar (255),
-firstname varchar (255),
-lastname varchar (255),
-department nvarchar(max),
-salary decimal (10, 3) ---(10: precision, 3:scale)
-)
-
-select * from [dbo].[Salary]
-
------insert records into Salary table-------------
-
-insert into salary (staffid, FirstName, lastname, Department, Salary)
-
-
-values ( 'AB401', 'ayan', 'olakun', 'Information Tech.', 45000.45),
-( 'AB212', 'okorie', 'mercy','Account',500000.99999),
-( 'AB223', 'joshua', 'chukwuemeka', 'Human Resources',100560.9339999),
-( 'AB234', 'sanni', 'ibrahim', 'Sales and Marketing',845688.99),
-( 'AB254', 'mercy', 'olanipekun', 'Account',8889.999999),
-( 'AB249', 'johnson', 'mercy', 'Information Tech.',234000.90909090),
-( 'AB298', 'ayomide', 'halleluyah', 'Logistics', 678000.991999),
-( 'AB260', 'deborah', 'justin', 'Logistics',900099.00697969),
-( 'AB281', 'wale', 'olanipekun', 'Information Tech',873093.2344)
-
-insert into [dbo].[Salary]
-values ( 'AB200', 'ayomide', 'halleluyah', 'Human Resources',45699.8585),
-( 'AB405', 'deborah', 'justin', 'Account',898349.900222),
-( 'AB282', 'wale', 'olanipekun', 'Sales and Marketing',362636.564848),
-( 'AB278', 'shukurat', 'lasisi', 'Logistics',100000.464647),
-( 'AB240', 'johnson', 'mercy', 'Information Tech',3855590.9890093),
-( 'AB299', 'ayomide', 'halleluyah', 'Account', 8585858.9292),
-( 'AB268', 'deborah', 'justin', 'Human Resources',76767.93939)
-
-----SUM, COUNT, MAX, MIN, AVERAGE---------------------------------
-
-SELECT SUM(Salary) AS TOTALSALARY FROM Salary
-
-SELECT AVG(Salary) AS AVERAGESALARY FROM Salary
-
-SELECT COUNT(Staffid) AS EmployeeCount FROM EMPLOYEE
-
-SELECT COUNT(Staffid) AS NumberOfEmployee FROM Salary
-
------update--------
-
-update Salary
+...UPDATE... *This updates a record you already have on a table to a new one, like the example below*
+...update Salary
 set salary = 7056999.9994
-where Staffid = 'AB401'
+where staffid = 'AB401'...
 
------------------------13/09/2024------------------------
---update staff name-----
+...ALTER... *This adds an additional column into a table like the example below*
+...alter table EMPLOYEE...
+add State_of_Origin varchar (50)...
 
-select * from [dbo].[Employee]
+CASE WHEN syntax is used to input huge amount of data into an existing table when ALTER cannot be used
 
-update employee
-set secondname = 'Endurance'
-where staffid = 'AB405'
-
-----UPDATE DEPARTMENT-------
-
-select * from [dbo].[Salary]
-
-UPDATE SALARY
-SET department = 'Information Tech.'
-where Staffid = 'AB234'
-
-UPDATE SALARY
-SET department = 'Information Tech.'
-where Staffid = 'AB240'
+Other SQL Clauses, Operators Views and Case When were taught in class, but isnt included in this summary.
 
 
-SELECT * FROM Salary
-WHERE Staffid = 'AB281'
 
-----CREATE ADDITIONAL COLUMN INTO EMPLOYEE TABLE-------
-
-ALTER TABLE EMPLOYEE
-ADD State_of_Origin varchar (50)
-
-select * from employee
-
-UPDATE EMPLOYEE
-SET State_of_Origin = 'Ekiti'
-where staffid = 'AB268'
-
------create another table call PAYMENT TABLE------
-CREATE TABLE Payment (
-paymentid int identity (1,1) primary key,
-Account_No bigint not null,
-staffid int,
-Bank varchar (255) default 'Zenith Bank',
-Payment_Method varchar (50) check (Payment_Method = 'Cash' or Payment_Method = 'Transfer')
-)
-
-alter table payment
-alter column staffid varchar (30)
-
-select * from Payment
-
-insert into Payment (account_no,staffid,payment_method )
-values (2033030303, 'AB200', 'transfer'),
-(2123459910, 'AB401',  'transfer'),
-(2034562240, 'AB254',  'cash'),
-(2234556303, 'AB212',  'transfer'),
-(2033037703, 'AB249',  'cash'),
-(2033030303, 'AB298',  'cash'),
-(2455657503, 'AB260',  'transfer'),
-(2045595953, 'AB281',  'cash'),
-(2033030303, 'AB273',  'transfer'),
-(2077778903, 'AB299',  'transfer'),
-(2033030301, 'AB286', 'transfer'),
-(2123459911, 'AB260',  'transfer'),
-(2034562241, 'AB270',  'cash'),
-(2234556302, 'AB104',  'transfer'),
-(2033037705, 'AB268',  'cash'),
-(2033030306, 'AB270',  'cash'),
-(2455657509, 'AB300',  'transfer')
-
-insert into Payment
-values (2198773830, 'AB299',  'GT bank', 'transfer'),
-(2024656569, 'AB405',  'Access bank', 'cash'),
-(2222444933, 'AB200',  'Fidelity bank', 'transfer'),
-(5674842300, 'AB278', 'Access bank', 'transfer'),
-(2222444933, 'AB200',  'GT bank', 'transfer'),
-(2034537300, 'AB278', 'Access bank', 'transfer')
-
-------those receive their salary by cash-----
-SELECT * FROM Payment
-WHERE Payment_Method = 'Cash'
-
-select * from Payment
-where Payment_Method = 'TRANSFER'
-
-SELECT COUNT(*)  AS ZenithStaff FROM Payment
-where Bank = 'Zenith Bank'
-
-SELECT COUNT(*)  FROM Payment
-where Bank = 'GT BANK'
-
-SELECT COUNT(*)  FROM Payment
-where Payment_Method = 'Transfer'
-
-SELECT COUNT(*)  FROM Payment
-where Payment_Method = 'cASH'
-
----Analysis on Employee table------
-
-select * from Employee
-
-select count(*)  from employee 
-where state_of_origin  = 'Kano'
-
-select count(*)  from employee 
-where gender  = 'male'
-
-select * from Salary
-
-select count(*)  from Salary
-where department  = 'Human Resources'
-
-select top 5 * from Salary
-
-select * from Salary
-where salary > 700000
-
-select Staffid, salary from Salary
-where salary < 700000
-
-
-select max(salary) from Salary
-
-select min(salary) as min_salary from Salary
 
 
 ### Power BI (Business Intelligence)
+
+Temidayo Ayeni is the man for the job when it came to teaching PowerBI. He took us through the basics to the detailed aspect of the session.
+
+We worked on a list of datasets, one of them had to do with evaluating the attrition rate of a company using the HR data.
+
+Visual expressions from the classworks are listed below.
+
 [PowerBI Classwork.pdf](https://github.com/user-attachments/files/17532222/PowerBI.Classwork.pdf)
 
 ![First dashboard](https://github.com/user-attachments/assets/62eb1593-4a5a-4a7f-b4b4-b19a9ea32bc9)
