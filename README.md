@@ -115,7 +115,7 @@ Below are some of the highlights from the three weeks of intensive teachings, in
 The most important of the highlights for me is his quote by Brian Herbert, which says, **"the capacity to learn is a gift, the ability to learn is a skill, and the willingness to learn is a choice."** I am glad that I made the choice to learn.
 
 #### Day 1 - Week 1 (Introduction, Data entry, Excel functions 1)
-![Basics of Data Analysis - 19 Aug 2024 - Muhsin Hameed](https://github.com/user-attachments/assets/78b5b959-2b07-4baa-b3fc-ec678a6f209e)
+![Basics of Data analysis](https://github.com/user-attachments/assets/395dda00-19e1-4e69-aef7-dd2446675149)
 
 #### Day 2
 ![Tips for Success in Data analysis](https://github.com/user-attachments/assets/4fe325f7-6092-4e9a-8e9e-c1ac38796b6c)
