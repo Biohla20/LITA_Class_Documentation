@@ -128,8 +128,6 @@ The most important of the highlights for me is his quote by Brian Herbert, which
 #### Week 3 (Excel functions 3, Pivot table and chart)
 ![PIVOT TABLES](https://github.com/user-attachments/assets/71bde419-77d4-49bd-9c10-20d1de2f8a53)
 
-![PIVOT TABLE 2](https://github.com/user-attachments/assets/6f112dc2-8aa9-448a-8c89-ae902a2ee7e7)
-
 ![Pivot table and CHARTS](https://github.com/user-attachments/assets/70e44e6a-f5ed-4450-a1f6-81e0ac278884)
 
 ### Structured Query Language (SQL)
